@@ -49,12 +49,11 @@ Data Model Implementation and Optimization:
 
 Python Script model performance
 
-Model utilizes data from Spark
-
 Google colab implémentation
 
-Google colab Import Dependencies: sklearn.model_selection, train_test_split, sklearn.preprocessing, 
+Google colab Import Dependencies: from sklearn.model_selection, train_test_split, sklearn.preprocessing, 
 
-StandardScaler, sklearn.metrics, accuracy_score, pandas as pd, tensorflow
+StandardScaler, sklearn.metrics, accuracy_score, confusion_matrix,  
+pandas as pd, tensorflow
 
-Model utilizes data from Spark
+Model utilizes data with Google colab, Matplotlib and Pandas as pd
